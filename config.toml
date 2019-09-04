@@ -1,0 +1,8 @@
+baseurl = "http://newoxygen.github.io/"#name of your repository
+languageCode = "en-us"
+title = "氧气计算"#title of your page
+theme = "hyde"#default theme
+
+[params]
+    description = "CC博客，信奉望远镜与显微镜的哲学"#simple description on page
+    themeColor = "theme-base-08" # for hyde theme
